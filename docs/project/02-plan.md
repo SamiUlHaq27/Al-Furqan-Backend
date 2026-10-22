@@ -1,5 +1,9 @@
 # Project Plan
 
+**Al-Furqan** addresses this by establishing a reality-synthesis platform governed by formal logic and evidence-based verification.
+
+By enforcing hierarchical stance partitioning (Pro, Con, and Context), automated pre-ingestion triage (link validation, toxicity filtering, and semantic relevance scoring), and dynamic, trust-weighted voting algorithms, Al-Furqan replaces chaotic comment threads with structured, auditable knowledge trees that surface objective truth for public matters and private enterprise decision-making alike.
+
 ### Challenge 1: Safe speech
 
 - **Problem:** Some users may post hateful and abusive comments. It will cause bad user experience.
@@ -15,8 +19,11 @@
 
 ### Challenge 3: Maintaining clean knowledge base
 
-- **Problem:** For discussing a topic whether something is good or bad, something was real or not there might be internal sub topics which could define the final result. There could also be events linked to events or personalities linked to personalities. It is crucial to maintain a clean structure for getting the final result about something.
-- **Solution:** The core of the system is a discussion. Take it as a general no matter an event or what it is. Make sure to include a clear question and possible options if available. Allow users to tag or link other discussions while discussing something. It will highlight if discussions are related and their results could be used to get final answer for current discussion.
+- **Problem:** For discussing a topic whether something is good or bad, something was real or not there might be internal sub topics which could define the final result. There could also be other discussion linked to it. It is crucial to maintain a clean structure for getting the final result about something.
+- **Solution:** The core of the system is discussion.
+  - Take it as a general no matter an event or personality or a statement. 
+  - Make sure to include a clear question and possible options if available. 
+  - Allow users to tag or link other discussions while discussing something. It will highlight if discussions are related and their results could be used to get final answer for current discussion.
 - **Status:** Under progress
 
 ### Challenge 4: Spamming

@@ -59,9 +59,9 @@ docs/
 
 - **Heading:** Project Requirements
 - **Description:** Provide an exhaustive, testable list of system guarantees and capabilities.
-- **Label Convention:** `[TYPE]-[FEATURE]-[NUMBER]`
+- **Label Convention:** `[TYPE]-[CATEGORY]-[NUMBER]`
   - **`TYPE`**: `FR` (Functional Requirement) or `NFR` (Non-Functional Requirement).
-  - **`FEATURE`**: 3–5 letter tag for the domain/feature area (e.g., `AUTH`, `BILL`, `SYNC`, `PERF`).
+  - **`CATEGORY`**: 3–5 letter tag for the domain/feature area (e.g., `AUTH`, `BILL`, `SYNC`, `PERF`).
   - **`NUMBER`**: Sequential 3-digit counter (`001`, `002`, `003`).
 - **Template:**
 
