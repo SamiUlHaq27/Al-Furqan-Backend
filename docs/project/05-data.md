@@ -19,6 +19,7 @@
   - Opening statement: a statement from moderator
   - Evidences: if author want to present any reference or file
   - Options: possible options to select for debaters or allowing custom option
+  - Thumbnail: From [image1](https://i.pinimg.com/474x/6d/e9/1c/6de91c11a6c674a79cf315fe1929c135.jpg), [image2](https://png.pngtree.com/thumb_back/fh260/background/20220525/pngtree-tribune-realistic-debate-composition-image_1383404.jpg), [image3](https://static.vecteezy.com/system/resources/thumbnails/070/024/303/small/two-podiums-with-microphones-on-a-stage-free-photo.jpg), [image4](https://t4.ftcdn.net/jpg/10/32/21/17/360_F_1032211788_UDk4m37gQjZ1bjQaFSh15HTjWSMWCNw2.jpg) or moderator upload
 - **Comment:**
   - Supporting Option: Each comment must be associated with one of options moderator has provided, debater can write custom if custom is allowed.
   - Statement/Content: text of the comment
@@ -29,3 +30,4 @@
 2. Standard user `make` comment `in` debate
 
 ## 3. Data Semantics & Invariants
+1. No data should be deleted completely from the system
