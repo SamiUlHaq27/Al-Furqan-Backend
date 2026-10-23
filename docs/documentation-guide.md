@@ -144,7 +144,7 @@ erDiagram
 
 ---
 
-## 3. Team Maintenance Rules
+## 4. Team Maintenance Rules
 
 1. **Colocated with Code:** Keep these files inside `docs/project/` so they evolve through regular version control.
 2. **PR Gatekeeping:** Any pull request modifying an entity, adding a feature, or altering a requirement must update the corresponding doc (`02`, `03`, `04`, or `05`) as part of the same commit.
